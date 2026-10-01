@@ -8,52 +8,50 @@ Course: Web Technologies 1
 
 Headings and paragraphs change font size depending on screen width (mobile, tablet, desktop).
 
-Screenshot (desktop):
+Screenshot (desktop): ![alt text](images/image.png)
 
-Screenshot (tablet):
+Screenshot (tablet): ![alt text](images/image-1.png)
 
-Screenshot (mobile):
+Screenshot (mobile): ![alt text](images/image-2.png)
 
 ## Task 1. Responsive Layout with Media Queries
 
 Three boxes made with flexbox. Desktop - 3 in a row, tablet - 2 in a row, mobile - stacked. No Bootstrap used here, only media queries.
 
-Screenshot (desktop):
+Screenshot (desktop): ![alt text](images/image-3.png)
 
-Screenshot (tablet):
+Screenshot (tablet): ![alt text](images/image-4.png)
 
-Screenshot (mobile):
+Screenshot (mobile): ![alt text](images/image-5.png)
 
 ## Task 2. Bootstrap Responsive Columns
 
 Three columns made with Bootstrap 12-column grid. Desktop - 3 columns in a row, tablet - 2 columns then 1 below, mobile - all stacked.
 
-Screenshot (desktop):
+Screenshot (desktop): ![alt text](images/image-6.png)
 
-Screenshot (tablet):
+Screenshot (tablet): ![alt text](images/image-7.png)
 
-Screenshot (mobile):
+Screenshot (mobile): ![alt text](images/image-8.png)
 
 ## Task 3. Bootstrap Navigation Bar
 
 Navbar with logo on the left and links on the right. On small screens it collapses into a hamburger menu.
 
-Screenshot (desktop):
+Screenshot (desktop): ![alt text](images/image-9.png)
 
-Screenshot (mobile, menu closed):
-
-Screenshot (mobile, menu open):
+Screenshot (mobile, menu open): ![alt text](images/image-10.png)
 
 ## Task 4. Responsive Portfolio Page
 
 Portfolio page with navbar on top, projects and sidebar in the main part, footer at the bottom. Font size, spacing and visibility of some text change with media queries.
 
-Screenshot (desktop):
+Screenshot (desktop): ![alt text](images/image-11.png)
 
-Screenshot (tablet):
+Screenshot (tablet): ![alt text](images/image-12.png)
 
-Screenshot (mobile):
+Screenshot (mobile): ![alt text](images/image-13.png)
 
 ## Summary
 
-In this assignment I practiced responsive web design with CSS media queries and the Bootstrap grid system. Task 0 and Task 1 use only media queries without Bootstrap, to see how flexbox reacts to different screen sizes. Task 2 and Task 3 use Bootstrap's grid and navbar to build responsive layouts faster. In Task 4 I combined both approaches into one portfolio page: Bootstrap grid for the layout structure and media queries for font sizes and hiding some text on small screens.# web3
+In this assignment I practiced responsive web design with CSS media queries and the Bootstrap grid system. Task 0 and Task 1 use only media queries without Bootstrap, to see how flexbox reacts to different screen sizes. Task 2 and Task 3 use Bootstrap's grid and navbar to build responsive layouts faster. In Task 4 I combined both approaches into one portfolio page: Bootstrap grid for the layout structure and media queries for font sizes and hiding some text on small screens.
